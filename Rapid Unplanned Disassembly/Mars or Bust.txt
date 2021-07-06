@@ -1,0 +1,15 @@
+
+Mars or Bust
+Rapid Unplanned Disassembly, 165 points
+
+Back to Scoreboard
+
+hope for a soft landing
+
+Connecting
+
+Connect to the challenge on:
+living-hazard.satellitesabove.me:5000
+
+Using netcat, you might run:
+nc living-hazard.satellitesabove.me 5000 

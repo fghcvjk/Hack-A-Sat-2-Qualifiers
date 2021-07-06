@@ -1,0 +1,13 @@
+
+Quaternion
+Deck 36, Main Engineering, 53 points
+
+Back to Scoreboard
+
+Connecting
+
+Connect to the challenge on:
+grave-error.satellitesabove.me:5020
+
+Using netcat, you might run:
+nc grave-error.satellitesabove.me 5020

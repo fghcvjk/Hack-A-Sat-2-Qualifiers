@@ -1,0 +1,15 @@
+
+Edwards
+Launch Pad, 9 points
+
+Back to Scoreboard
+
+Some challenges require you to connect to a server to start a session and then make a different connection, possibly with a different program.
+
+Connecting
+
+Connect to the challenge on:
+sharp-object.satellitesabove.me:5031
+
+Using netcat, you might run:
+nc sharp-object.satellitesabove.me 5031 

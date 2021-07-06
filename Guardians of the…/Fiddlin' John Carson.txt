@@ -1,0 +1,15 @@
+
+Fiddlin' John Carson
+Guardians of the…, 23 points
+
+Back to Scoreboard
+
+Where do you come from?
+
+Connecting
+
+Connect to the challenge on:
+derived-lamp.satellitesabove.me:5013
+
+Using netcat, you might run:
+nc derived-lamp.satellitesabove.me 5013 

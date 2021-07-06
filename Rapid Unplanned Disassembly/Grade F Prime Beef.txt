@@ -1,0 +1,15 @@
+
+Grade F Prime Beef
+Rapid Unplanned Disassembly, 106 points
+
+Back to Scoreboard
+
+Exploit the system, get the passcode, retrieve the flag.
+
+Connecting
+
+Connect to the challenge on:
+recent-puzzle.satellitesabove.me:5015
+
+Using netcat, you might run:
+nc recent-puzzle.satellitesabove.me 5015 

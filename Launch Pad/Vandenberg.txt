@@ -1,0 +1,15 @@
+
+Vandenberg
+Launch Pad, 9 points
+
+Back to Scoreboard
+
+Some challenges require you to connect to a server.
+
+Connecting
+
+Connect to the challenge on:
+light-fever.satellitesabove.me:5030
+
+Using netcat, you might run:
+nc light-fever.satellitesabove.me 5030 

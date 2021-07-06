@@ -1,0 +1,15 @@
+
+Cotton Eye GEO
+Guardians of the…, 91 points
+
+Back to Scoreboard
+
+Where do you go?
+
+Connecting
+
+Connect to the challenge on:
+visual-sun.satellitesabove.me:5014
+
+Using netcat, you might run:
+nc visual-sun.satellitesabove.me 5014 

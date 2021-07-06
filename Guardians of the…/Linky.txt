@@ -1,0 +1,15 @@
+
+Linky
+Guardians of the…, 113 points
+
+Back to Scoreboard
+
+Years have passed since our satellite was designed, and the Systems Engineers didn't do a great job with the documentation. Partial information was left behind in the user documentation and we don't know what power level we should configure the Telemetry transmitter to ensure we have 10 dB of Eb/No margin over the minimum required for BER (4.4 dB) .
+
+Connecting
+
+Connect to the challenge on:
+wild-wish.satellitesabove.me:5022
+
+Using netcat, you might run:
+nc wild-wish.satellitesabove.me 5022 

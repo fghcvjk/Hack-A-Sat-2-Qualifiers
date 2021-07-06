@@ -1,0 +1,17 @@
+
+King's Ransom 2
+Presents from Marco, 436 points
+
+Back to Scoreboard
+
+A vulnerable service with your "bank account" information running on the target system. Too bad it has already been exploited by a piece of ransomware. The ransomware took over the target, encrypted some files on the file system, and resumed the executive loop.
+
+Go farther.
+
+Connecting
+
+Connect to the challenge on:
+star-power.satellitesabove.me:5011
+
+Using netcat, you might run:
+nc star-power.satellitesabove.me 5011 

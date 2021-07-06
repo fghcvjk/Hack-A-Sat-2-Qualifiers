@@ -1,0 +1,15 @@
+
+iq
+We're On the Same Wavelength, 23 points
+
+Back to Scoreboard
+
+Convert the provided series of transmit bits into in-phase quadrature samples.
+
+Connecting
+
+Connect to the challenge on:
+unique-permit.satellitesabove.me:5006
+
+Using netcat, you might run:
+nc unique-permit.satellitesabove.me 5006 
